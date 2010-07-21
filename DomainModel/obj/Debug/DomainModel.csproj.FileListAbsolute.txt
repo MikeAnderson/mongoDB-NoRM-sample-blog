@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\Mongo\DomainModel\bin\Debug\DomainModel.dll
+C:\inetpub\wwwroot\Mongo\DomainModel\bin\Debug\DomainModel.pdb
+C:\inetpub\wwwroot\Mongo\DomainModel\bin\Debug\MongoDB.Driver.dll
+C:\inetpub\wwwroot\Mongo\DomainModel\bin\Debug\MongoDB.Linq.dll
+C:\inetpub\wwwroot\Mongo\DomainModel\bin\Debug\MongoDB.Driver.xml
+C:\inetpub\wwwroot\Mongo\DomainModel\bin\Debug\MongoDB.Linq.xml
+C:\inetpub\wwwroot\Mongo\DomainModel\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Mongo\DomainModel\obj\Debug\DomainModel.dll
+C:\inetpub\wwwroot\Mongo\DomainModel\obj\Debug\DomainModel.pdb
+C:\inetpub\wwwroot\Mongo\DomainModel\bin\Debug\Norm.dll
+C:\inetpub\wwwroot\Mongo\DomainModel\bin\Debug\Norm.xml

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongo", "Mongo\Mongo.csproj", "{6660C5AA-7D3E-4F83-9BB5-5A7A256ED8F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mongo.Tests", "Mongo.Tests\Mongo.Tests.csproj", "{93900DDE-A86D-4B80-A1EA-D73B885BC86D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DomainModel", "DomainModel\DomainModel.csproj", "{C4864755-1F12-4ABB-BB2E-F262BFB08DC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6660C5AA-7D3E-4F83-9BB5-5A7A256ED8F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6660C5AA-7D3E-4F83-9BB5-5A7A256ED8F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6660C5AA-7D3E-4F83-9BB5-5A7A256ED8F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6660C5AA-7D3E-4F83-9BB5-5A7A256ED8F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93900DDE-A86D-4B80-A1EA-D73B885BC86D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93900DDE-A86D-4B80-A1EA-D73B885BC86D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93900DDE-A86D-4B80-A1EA-D73B885BC86D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93900DDE-A86D-4B80-A1EA-D73B885BC86D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4864755-1F12-4ABB-BB2E-F262BFB08DC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4864755-1F12-4ABB-BB2E-F262BFB08DC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4864755-1F12-4ABB-BB2E-F262BFB08DC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4864755-1F12-4ABB-BB2E-F262BFB08DC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
