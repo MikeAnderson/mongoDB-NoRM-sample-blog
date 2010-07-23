@@ -2,7 +2,7 @@
 mongoDB - Norm - MVC 2 Example with Visual Studio 2010
 ======================================================
 
-### This app was created as a learning process for mongoDB and NoRM. There are also imcomplete references and examples using the mongodb-csharp driver. I created a very simple blog to learn how to work with documents, as well as their nested documents in mongoDB.
+This app was created as a learning process for mongoDB and NoRM. There are also imcomplete references and examples using the mongodb-csharp driver. I created a very simple blog to learn how to work with documents, as well as their nested documents in mongoDB.
 
 ### Other technologies used:
 
